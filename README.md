@@ -1,6 +1,6 @@
 <img src="chill.gif" alt="chill gif" width="100%">
 ## Hi there 👋 I'M ZABAOIT
-[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:nguyengiabao8407@gmail.com)
+
 
 
 <!--
