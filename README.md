@@ -1,9 +1,7 @@
-<img src="chill.gif" alt="" width="100%>
-
 
 
 ## Hi there 👋
-
+<img src="chill.gif" alt="chill gif" width="100%>
 <!--
 **zabaoit/zabaoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
