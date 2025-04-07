@@ -1,6 +1,5 @@
-<video width="640" height="360" controls>
-  <source src="sasuke.mp4" type="video/mp4">
-</video>
+<img src="chill.gif" alt="" width="100%>
+
 
 
 ## Hi there 👋
