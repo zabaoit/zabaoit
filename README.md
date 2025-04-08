@@ -2,11 +2,6 @@
 
 ## Hi there 👋 I'M ZABAOIT
 
-
-<a href="mailto:nguyengiabao8407@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
 <a href="https://mail.google.com/" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
