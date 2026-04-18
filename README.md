@@ -104,7 +104,7 @@
 
 ### 🐍 Fun Fact: Commit Snake
 <div align="center">
-  <img src="https://github.com/zabaoit/cuong-sadboi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/zabaoit/zabaoit/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
