@@ -78,12 +78,6 @@
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zabaoit&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
-  </a>
-  
-  <br>
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zabaoit&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60&rank_icon=github" />
   </a>
